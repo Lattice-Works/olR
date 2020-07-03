@@ -1,0 +1,10 @@
+Package: olR
+Type: Package
+Title: Internal tools for data science at OpenLattice
+Version: 0.1
+Date: 2020-06-10
+Author: Joke Durnez
+Maintainer: Joke Durnez <joke@openlattice.com>
+Description: Internal tools for data science at OpenLattice
+License: Apache License, Version 2.0, January 2004
+Encoding: UTF-8
